@@ -1,2 +1,2 @@
 # Robotic_python_course
-Репозиторий с материалами курса по Python клуба Robotiv
+Репозиторий с материалами курса по Python клуба Robotic
